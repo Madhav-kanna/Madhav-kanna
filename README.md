@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shri madhava kanna</h1>
 <h3 align="center">I'm currently diving deep into backend development, learning the ins and outs of building scalable, efficient systems. Focused on mastering server-side technologies, API design, and database management, I'm excited to tackle new challenges and improve my skills. My goal is to create solid, high-performing backend architectures that support seamless user experiences and enable innovation. As I grow, I'm eager to contribute to real-world projects and collaborate with others in the tech community</h3>
 
-- 🔭 I’m currently working on **travel and tourism management**
+- 🔭 I’m currently working on **travel and tourism management project**
 
 - 🌱 I’m currently learning **golang and various other backend development tools.**
 
